@@ -1,0 +1,35 @@
+# Arquivos gerados pelo sistema operacional
+*.DS_Store
+Thumbs.db
+
+# Arquivos gerados pelo Python
+*.pyc
+__pycache__/
+
+# Arquivos de configuração do projeto
+*.env
+*.ini
+*.log
+
+# Arquivos de mídia e uploads de usuários
+media/
+uploads/
+
+# Arquivos de banco de dados SQLite
+*.sqlite3
+
+# Arquivos de dependências do Python gerados pelo pip
+venv/
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# Outros arquivos que devem ser ignorados
+*.pyo
+*.pyd
+__MACOSX/
+*.swp
+*.bak
+*.tmp
