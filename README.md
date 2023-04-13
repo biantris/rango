@@ -1,4 +1,4 @@
-### Rango
+### Rango ௹
 - project to <b>django<b> studies
 
 #### Stack
