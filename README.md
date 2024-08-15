@@ -1,2 +1,2 @@
-Rango ௹
-- project to django studies
+### Rango ௹
+// project to django studies
